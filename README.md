@@ -1,4 +1,4 @@
-# NetLearnerApp
+# NetLearnerApp 2
 NetLearner: The Internet Resource Learning Helper built with ASP .NET Core
 ![NetLearner Logo](/design/logos/NetLearner-logo.png "NetLearner Logo")
 
